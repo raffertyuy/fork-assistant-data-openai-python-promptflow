@@ -104,7 +104,7 @@ It will show a table of the locations where you have `gpt-35-turbo` available.
 
 Pick any location where you have both `1106` and `0301`, or both `1106` and `0613`, with remaining_quota above 60.
 
-By default, `azd provision` will use `1106` for the chat model, and `0301` for the evaluation model. To modify which version to use for the chat and evaluation models, use the env vars before running `azd provision`.
+By default, `azd provision` will use `1106` for the chat model, and `0613` for the evaluation model. To modify which version to use for the chat and evaluation models, use the env vars before running `azd provision`.
 
 In bash:
 

@@ -35,8 +35,8 @@ aoai:
       capacity: 30
     - name: "evaluation-35-turbo"
       model: "gpt-35-turbo"
-      version: "0301" # evaluation works more reliably on a non-preview model
-      # version: "0613"
+      version: "0613" # evaluation works more reliably on a non-preview model
+      # version: "0301"
       capacity: 30
 
 environment:
